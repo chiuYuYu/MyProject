@@ -8,9 +8,5 @@ class helloWord {
 	public static void showHello() {
 		System.out.println("hello   word");
 
-		System.out.println("hello   dog");
-
-		System.out.println("hello   cat");
-
 	}
 }
