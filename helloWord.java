@@ -6,6 +6,8 @@ class helloWord {
 	}
 
 	public static void showHello() {
+		System.out.println("hello   word");
+
 
 	}
 }
