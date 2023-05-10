@@ -1,9 +1,11 @@
-class helloWord{
+class helloWord {
 
-	public static void main(String[] args){
+	public static void main(String[] args) {
 
-	System.put.println("hello,word");
+		showHello();
 	}
 
-
+	public static void showHello() {
+		System.out.println("hello,word");
+	}
 }
